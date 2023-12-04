@@ -1,5 +1,5 @@
 # the bank 🏦
-a curated collection of apps and websites
+A curated collection of apps and websites
 
 ### bookmarks, reading, etc.
 
