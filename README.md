@@ -16,7 +16,7 @@ A curated collection of apps and websites
 
 [Camelot Typefaces](https://camelot-typefaces.com/) - typefaces (web)
 
-[Cosmos](https://www.cosmos.so/) - pinterest reimagined (*web in beta)
+[Cosmos](https://www.cosmos.so/) - pinterest reimagined (iOS, *web in beta)
 
 [Decipad](https://www.decipad.com/) - interactive data (web)
 
