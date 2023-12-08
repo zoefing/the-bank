@@ -33,6 +33,16 @@ A curated collection of apps and websites
 
 [Hacker News](https://news.ycombinator.com/news) - tech news (web)
 
+[LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com/) - solar-powered technology magazine (web)
+
+[Read Something Great](https://www.readsomethinggreat.com/) - timeless articles from the belly of the internet, served 5 at a time (web)
+
+[the html review](https://thehtml.review/) - an annual journal of literature made to exist on the web (web)
+
+[Public Access Memories](https://www.publicaccessmemories.com/about) - a virtual net art gallery that situates digital works within their native environment (web)
+
+[webcurios](https://webcurios.co.uk/) - newsletterblogtypething all about stuff on the internet (web)
+
 [Yarn](https://www.yarnpodcast.com/) - a story podcast (cross-platform, accessible via podcast app)
 
 
@@ -91,5 +101,7 @@ A curated collection of apps and websites
 [snappify](https://snappify.com/) - embed interactive code into presentations (web)
 
 [Tamagui](https://tamagui.dev/) - UI kit for native and web app development (cross-platform)
+
+[Tuple](https://tuple.app/) - remote pair programming (macOS & linux)
 
 [verto.sh](https://www.verto.sh/) - curates accessible open-sources projects (web)
