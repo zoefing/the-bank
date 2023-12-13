@@ -12,6 +12,8 @@ A curated collection of apps and websites
 
 ### design
 
+[AI Test Kitchen](https://aitestkitchen.withgoogle.com/) - hub for Google's latest & in-progress AI tech (web *waitlist)
+
 [Are.na](https://www.are.na/) - social community and creative research (web)
 
 [Camelot Typefaces](https://camelot-typefaces.com/) - typefaces (web)
@@ -23,8 +25,6 @@ A curated collection of apps and websites
 [Readymag](https://readymag.com/) - codeless website design (web)
 
 [Stack Sorted.](https://stacksorted.com/) - collection of design elements (web)
-
-[TextFX](https://textfx.withgoogle.com/) - AI-powered word tools (web)
 
 
 ### media consumption
