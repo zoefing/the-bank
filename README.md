@@ -94,7 +94,7 @@ A curated collection of apps and websites
 
 ### tech/programming
 
-[Cursor](https://cursor.sh/) - editor designed for pair programming with AI (macOS)
+[Cursor](https://cursor.sh/) - editor designed for pair programming with AI (cross-platform - macOS, windows, linux)
 
 [Linear](https://linear.app/) - software development hub (web)
 
