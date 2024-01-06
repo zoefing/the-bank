@@ -61,9 +61,11 @@ A curated collection of apps and websites
 
 [nate-parrott](https://github.com/nate-parrott) - Nate Parrott (web)
 
-[Udara's homepage](https://udara.io/) - Udara Jay (web)
+[Pedro Duarte's Personal Website](https://ped.ro/) - Pedro Duarte (web)
 
 [Portfolio and realisations @ TUX](https://tux.co/en/work/) - TUX (web)
+
+[Udara's homepage](https://udara.io/) - Udara Jay (web)
 
 
 ### productivity, notes, organization
