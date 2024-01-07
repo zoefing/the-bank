@@ -78,6 +78,8 @@ A curated collection of apps and websites
 
 [Muse](https://museapp.com/) - organized workspace (apple ecosystem - macOS, iPad)
 
+[Nino](https://nino.app/) - a collection of apps that can interoperate with each other on the block-level from one uniform interface (macOS, web)
+
 [Pile](https://udara.io/pile/) - markdown-based journalling app (mac)
 
 [Sping](https://sping.app/) - college scheduling app (apple ecosystem - macOS, iOS)
