@@ -59,6 +59,8 @@ A curated collection of apps and websites
 
 [Fast](https://patrickcollison.com/fast) - Patrick Collison (web)
 
+[LP — PORTFOLIO](https://aworkinprogress.cargo.site/) - LP (web)
+
 [nate-parrott](https://github.com/nate-parrott) - Nate Parrott (web)
 
 [Pedro Duarte's Personal Website](https://ped.ro/) - Pedro Duarte (web)
