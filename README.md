@@ -95,6 +95,8 @@ A curated collection of apps and websites
 
 [Keka](https://www.keka.io/en/) - file archiver (macOS)
 
+[Loop](https://github.com/MrKai77/Loop) - window management made elegant (macOS)
+
 [Raycast](https://www.raycast.com/) - launcher (macOS)
 
 [Warp](https://app.warp.dev) - rust-based terminal with AI (macOS)
@@ -103,6 +105,8 @@ A curated collection of apps and websites
 ### tech/programming
 
 [Cursor](https://cursor.sh/) - editor designed for pair programming with AI (cross-platform - macOS, windows, linux)
+
+[DevDocs](https://devdocs.io/) - offile API documentation for devs (web)
 
 [Linear](https://linear.app/) - software development hub (web)
 
