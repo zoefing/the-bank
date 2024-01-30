@@ -10,6 +10,15 @@ A curated collection of apps and websites
 [Napkin](https://www.napkin.one/) - visual note-taking app (macOS, *iOS in beta)
 
 
+### browsers
+
+[Arc](https://arc.net/) - heavily customizable browser with vertical tabs (macOS, *windows on waitlist)
+
+[Arc Search](https://apps.apple.com/us/app/arc-search/id6472513080) - AI-enabled mobile browser (iOS)
+
+[Quiche Browser](https://quiche.works/browser/) - lightweight mobile browser (iOS)
+
+
 ### design
 
 [AI Test Kitchen](https://aitestkitchen.withgoogle.com/) - hub for Google's latest & in-progress AI tech (web *waitlist)
