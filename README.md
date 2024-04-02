@@ -9,6 +9,8 @@ A curated collection of apps and websites
 
 [Napkin](https://www.napkin.one/) - visual note-taking app (macOS, *iOS in beta)
 
+[PencilBooth](https://pencilbooth.com/discovery) - visual artists newsletter platform (web)
+
 
 ### browsers
 
